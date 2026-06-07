@@ -29,13 +29,4 @@ Built from four MIT CAPD resources:
 
 ## Installation
 
-Download `mit-resume-reviewer.skill` from the [releases page](#) and install it in Claude, or clone this repo and point Claude at the folder directly.
-
-## Files
-
-```
-mit-resume-reviewer/
-├── SKILL.md                        # Skill instructions
-└── references/
-    └── mit-guidelines.md           # Compiled checklist from all four sources
-```
+Download `mit-resume-reviewer.skill` and install it in Claude.
